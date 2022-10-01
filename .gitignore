@@ -1,0 +1,15 @@
+
+# User Specific files
+*.suo
+*.user
+
+# Build folders
+**/[Bb]in/*
+**/[Oo]bj/*
+
+# NuGet 
+**/packages/*
+
+# Visual Studio 2015+ cache
+.vs/
+
